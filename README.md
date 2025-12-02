@@ -72,6 +72,6 @@ Special thanks to OpenAI & Perplexity AI for research assistance during explorat
 👨‍💻 About Me
 Hi, I’m Lincy R, an aspiring Data Analyst passionate about turning complex environmental and market data into actionable insights for business impact.
 
-💼 LinkedIn: Avik Sarkhel
-📧 Email: avik305sarkhel@gmail.com
+💼 LinkedIn: Lincy R
+📧 Email: Lincyragu91@gmail.com
 ⭐ If you found this project insightful, please give this repo a star — it really helps!
